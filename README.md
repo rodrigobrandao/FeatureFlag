@@ -21,3 +21,5 @@ You can connection on database to access your features or use in memory
 
       FeatureFlag.Repository.FeatureFlagRepositoryFake repo = new FeatureFlag.Repository.FeatureFlagRepositoryFake();            
       FeatureFlag.IConfiguration features = FeatureFlag.Features.GetConfiguration(repo);
+
+Please check your database connection in app.config
