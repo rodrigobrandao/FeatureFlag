@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureFlag", "FeatureFlag\FeatureFlag.csproj", "{D9D1F461-1BF0-40BA-B7EA-C72D87F2ED74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{3664058C-1D36-420E-B3D5-8E8FE96EF1D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{37C9BD77-B774-4C21-A661-3D5168BBE502}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{BD1B4CB7-CE50-4819-9012-0D397E631461}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Users\Rodrigo\Documents\FilterFlagDataBase.mdf = ..\..\..\..\Users\Rodrigo\Documents\FilterFlagDataBase.mdf
+		..\..\..\..\Users\Rodrigo\Documents\TB_FEATURE_FLAG.sql = ..\..\..\..\Users\Rodrigo\Documents\TB_FEATURE_FLAG.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9D1F461-1BF0-40BA-B7EA-C72D87F2ED74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D1F461-1BF0-40BA-B7EA-C72D87F2ED74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D1F461-1BF0-40BA-B7EA-C72D87F2ED74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D1F461-1BF0-40BA-B7EA-C72D87F2ED74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3664058C-1D36-420E-B3D5-8E8FE96EF1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3664058C-1D36-420E-B3D5-8E8FE96EF1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3664058C-1D36-420E-B3D5-8E8FE96EF1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3664058C-1D36-420E-B3D5-8E8FE96EF1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C9BD77-B774-4C21-A661-3D5168BBE502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C9BD77-B774-4C21-A661-3D5168BBE502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C9BD77-B774-4C21-A661-3D5168BBE502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C9BD77-B774-4C21-A661-3D5168BBE502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
