@@ -3,3 +3,7 @@
 ################################################################################
 
 /ConsoleApp/obj/Debug
+/FeatureFlag/obj/Debug
+/UnitTest/obj/Debug
+/Database
+/.vs/FeatureFlag/v14

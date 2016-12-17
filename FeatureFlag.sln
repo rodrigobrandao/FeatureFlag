@@ -11,8 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTe
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{BD1B4CB7-CE50-4819-9012-0D397E631461}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Users\Rodrigo\Documents\FilterFlagDataBase.mdf = ..\..\..\..\Users\Rodrigo\Documents\FilterFlagDataBase.mdf
-		..\..\..\..\Users\Rodrigo\Documents\TB_FEATURE_FLAG.sql = ..\..\..\..\Users\Rodrigo\Documents\TB_FEATURE_FLAG.sql
+		Database\FilterFlagDataBase.mdf = Database\FilterFlagDataBase.mdf
+		Database\TB_FEATURE_FLAG.sql = Database\TB_FEATURE_FLAG.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3E351BAB-56E5-4B03-8ABC-2D7CD9C50D35}"
+	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
 	EndProjectSection
 EndProject
 Global
