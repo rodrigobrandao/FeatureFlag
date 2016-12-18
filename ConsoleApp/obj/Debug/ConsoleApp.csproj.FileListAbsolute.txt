@@ -6,3 +6,11 @@ C:\vs\dev\FeatureFlag\FeatureFlag\ConsoleApp\bin\Debug\FeatureFlag.pdb
 C:\vs\dev\FeatureFlag\FeatureFlag\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
 C:\vs\dev\FeatureFlag\FeatureFlag\ConsoleApp\obj\Debug\ConsoleApp.exe
 C:\vs\dev\FeatureFlag\FeatureFlag\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Rodrigo\Source\Repos\FeatureFlag\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Rodrigo\Source\Repos\FeatureFlag\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Rodrigo\Source\Repos\FeatureFlag\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Rodrigo\Source\Repos\FeatureFlag\ConsoleApp\bin\Debug\FeatureFlag.dll
+C:\Users\Rodrigo\Source\Repos\FeatureFlag\ConsoleApp\bin\Debug\FeatureFlag.pdb
+C:\Users\Rodrigo\Source\Repos\FeatureFlag\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Source\Repos\FeatureFlag\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Rodrigo\Source\Repos\FeatureFlag\ConsoleApp\obj\Debug\ConsoleApp.pdb
